@@ -1,9 +1,6 @@
-# Ignore everything
 *
 
-# But not these files...
 !.gitignore
 !largevit.py
 
-# ...even if they are in subdirectories
 !*/
